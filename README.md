@@ -13,10 +13,10 @@ This program opens an OpenGL window and shows a single rectangle with smooth ani
  - Windows OS
 
 # How to Compile and Run
- 1.Open the project folder in terminal
- 2.Compile the source file (main.cpp) using your OpenGL setup
- 3.Run the generated executable file
- 4.The OpenGL window will open and start the animation
+ 1. Open the project folder in terminal
+ 2. Compile the source file (main.cpp) using your OpenGL setup
+ 3. Run the generated executable file
+ 4. The OpenGL window will open and start the animation
  
 # Key Functionality
 1. Rectangle Animation
@@ -26,8 +26,8 @@ This program opens an OpenGL window and shows a single rectangle with smooth ani
 2. Movement and Effects
  - Scaling: The rectangle slowly grows and shrinks
  - Rotation: It rotates around both:
-    a.X-axis
-    b.Y-axis
+    a. X-axis
+    b. Y-axis
  - These effects together create a simple 3D-like motion
 3. Window Setup
  - Window title: Animated Rectangle - OpenGL
