@@ -26,8 +26,8 @@ This program opens an OpenGL window and shows a single rectangle with smooth ani
 2. Movement and Effects
  - Scaling: The rectangle slowly grows and shrinks
  - Rotation: It rotates around both:
-    a. X-axis
-    b. Y-axis
+    a.X-axis
+    b.Y-axis
  - These effects together create a simple 3D-like motion
 3. Window Setup
  - Window title: Animated Rectangle - OpenGL
